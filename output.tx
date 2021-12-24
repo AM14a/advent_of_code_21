@@ -1,0 +1,24 @@
+C200B40A82 1100001000000000101101000000101010000010
+operator 0
+number 4
+number 4
+result {
+  version: 6,
+  type: 0,
+  packet: '1100001000000000101101000000101010000010',
+  total_version: 14,
+  value: 3
+}
+14
+C200B40A82 1100001000000000101101000000101010000010
+operator 0
+number 4
+number 4
+RESULT {
+  version: 6,
+  type: 0,
+  packet: '1100001000000000101101000000101010000010',
+  total_version: 14,
+  value: 3
+}
+3
